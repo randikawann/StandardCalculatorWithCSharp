@@ -1,0 +1,10 @@
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\bin\Debug\StandardCalculaorCShard.exe.config
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\bin\Debug\StandardCalculaorCShard.exe
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\bin\Debug\StandardCalculaorCShard.pdb
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.csprojResolveAssemblyReference.cache
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.Form1.resources
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.Properties.Resources.resources
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.csproj.GenerateResource.Cache
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.csproj.CoreCompileInputs.cache
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.exe
+E:\C#TestProject\StandardCalculaorCShard\StandardCalculaorCShard\obj\Debug\StandardCalculaorCShard.pdb
